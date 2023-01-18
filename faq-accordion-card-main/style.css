@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body{
+    
+    background: linear-gradient(90deg, rgba(176,104,233,1) 0%, rgba(100,99,231,1) 100%);
+
+  }
+  h1{
+    font-size: 32px;
+    font-family: Kumbh Sans;
+    line-height: 40px;
+    line-height: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .womandesk{
+    display: none;
+  }
+
+  .boxdes{
+    display: none;
+  }
+  .patterndesk{
+    display: none;
+  }
+
+
+  .Main{
+    margin: 148px 24px 100px 24px;
+    background: #FFFF;
+    border-radius: 23px;
+    width: 327px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media screen and (min-width: 1440px) {
+    body {
+      /* background-color: lightgreen; */
+    }
+
+
+    h1{
+      text-align: start;
+    }
+
+
+    .womanmob{
+      display: none;
+    }
+  
+   
+    .patternmob{
+      display: none;
+    }
+
+    .womandesk{
+      display: block;
+    }
+  
+    .boxdes{
+      display: block;
+      position: absolute;
+      top: 125px;
+    }
+    .patterndesk{
+      display: block;
+    }
+
+
+
+
+
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); } */
