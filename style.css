@@ -25,7 +25,7 @@ body {
 }
 
 span {
-  /* display: none; */
+  display: none;
   font-weight: 400;
   line-height: 18px;
 
@@ -42,7 +42,7 @@ h1 {
   top: 50px;
   left: 40px;
 }
-.question {
+#question {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -75,4 +75,7 @@ p {
   font-weight: 400;
   font-size: 13px;
   color: var(--Very_dark_grayish_blue);
+}
+.span.active {
+  display: block;
 }
