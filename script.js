@@ -9,7 +9,7 @@ for (let i = 0; i < containers.length; i++) {
   });
 }
 
-// option with for of
+// option with for of statement
 
 // const containers = document.querySelectorAll("#container");
 // const panels = document.getElementsByTagName("span");
