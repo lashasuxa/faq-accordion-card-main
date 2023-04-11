@@ -88,27 +88,6 @@ p {
 .main_img_desktop {
   display: none;
 }
-@media screen and (min-width: 480px) {
-  .main {
-    flex-direction: row;
-  }
-  .card {
-    width: 509px;
-    padding-top: 0;
-  }
-  .question:hover {
-    color: var(--Soft_red);
-  }
-  .main_img_mobile {
-    display: none;
-  }
-  .main_img_desktop {
-    display: block;
-  }
-  .main_img_desktop {
-    display: flex;
-  }
-}
 
 /* styles for js */
 .newStyle {
