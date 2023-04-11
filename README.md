@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/lashasuxa/faq-accordion-card-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FAQ accordion](https://github.com/lashasuxa/faq-accordion-card-main)
+- Live Site URL: [FAQ accordion](https://your-live-site-url.com)
 
 ### Built with
 
